@@ -7,6 +7,7 @@
 ##### If u dash the goblin you lose 5 points and each hit to the goblin gives you 1 point...
 ![Screenshot from 2020-01-26 12-42-30](https://user-images.githubusercontent.com/52334437/73131951-d4756b80-4039-11ea-9807-42c4b3454d98.png)
 ##### Kill the Goblin and Win the Game!
+##### To run the game [Install PyGame](https://pypi.org "PyGame.org")
 ---
 #### This is my first project with `PyGame` 
 #### Made with :heart: by Divesh Thakker :blush:
