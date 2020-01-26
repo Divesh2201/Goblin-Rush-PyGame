@@ -75,7 +75,7 @@ class player(object):
                 
 
 
-class projectile(object):
+class projectile(object): 
     def __init__(self,x,y,radius,color,facing):
         self.x = x
         self.y = y
